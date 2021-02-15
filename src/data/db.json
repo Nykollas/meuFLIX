@@ -2,49 +2,49 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Arduino",
+      "titulo": "Salesforce",
       "cor": "#6BD1FF",
-      "descricao": "IFSULDEMINAS - Campus Machado",
+      "descricao": "",
       "url": "https://info.mch.ifsuldeminas.edu.br/"
     },
     {
       "id": 2,
-      "titulo": "Fundamentos de Computação",
+      "titulo": "Sales Cloud",
       "cor": "green",
-      "descricao": "IFSULDEMINAS - Campus Machadoa",
+      "descricao": "",
       "url": "https://info.mch.ifsuldeminas.edu.br/"
     },
     {
       "id": 3,
-      "titulo": "Front End",
+      "titulo": "Marketing Cloud",
       "cor": "#6BD1FF",
-      "descricao": "Formação de Front End na Alura",
+      "descricao": "",
       "url": "https://www.alura.com.br/cursos-online-front-end"
     },
     {
-      "titulo": "Raspberry Pi",
-      "descricao": "Site Oficial",
+      "titulo": "Analytics Cloud",
+      "descricao": "",
       "url": "https://www.raspberrypi.org/",
       "cor": "#000000",
       "id": 4
     },
     {
-      "titulo": "UPGRADE ",
-      "descricao": "Site Oficial",
+      "titulo": "Service Cloud",
+      "descricao": "",
       "url": "https://www.raspberrypi.org/",
       "cor": "#39b530",
       "id": 5
     },
     {
-      "titulo": "UPGRADE 2",
-      "descricao": "CPU I3",
+      "titulo": "Community Cloud",
+      "descricao": "",
       "url": "https://soundcloud.com/parama-dita-216227799/post-malone-goodbyes-ft-young",
       "cor": "#b80f0f",
       "id": 6
     },
     {
-      "titulo": "Raspberry Pi 33",
-      "descricao": "Site Oficial",
+      "titulo": "Knowledge Cloud",
+      "descricao": "",
       "url": "https://www.youtube.com/playlist?list=PLQV1blIfl0YCWdnJMov7ThwOPwO3Vo7t2",
       "cor": "#4357b6",
       "id": 7
@@ -55,34 +55,22 @@
       "id": 1,
       "categoriaId": 1,
       "titulo": "O que é Arduino",
-      "description": "O que é Arduino",
+      "description": "",
       "url": "https://www.youtube.com/watch?v=-iOuF0qSlv4"
     },
     {
       "id": 2,
       "categoriaId": 1,
       "titulo": "Historia do Arduino",
-      "description": "Historia do Arduino",
+      "description": "",
       "url": "https://youtu.be/9nucMfF15Ik"
     },
     {
       "id": 3,
       "categoriaId": 2,
       "titulo": "Introdução ao Scratch - Curso de Algoritmos",
-      "description": "Introdução ao Scratch",
+      "description": "",
       "url": "https://www.youtube.com/watch?v=GrPkuk1ezyo"
-    },
-    {
-      "id": 4,
-      "categoriaId": 3,
-      "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-    },
-    {
-      "id": 5,
-      "categoriaId": 3,
-      "titulo": "Novidades do Angular v9",
-      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
     }
   ]
 }

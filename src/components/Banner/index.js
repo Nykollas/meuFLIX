@@ -16,7 +16,13 @@ function getYouTubeId(youtubeURL) {
 
 export default function BannerMain({ videoTitle, videoDescription, url }) {
   const youTubeID = getYouTubeId(url);
-  const bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`;
+  var bgUrl = '';
+  if(url.includes('youtube')){
+    bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`;
+  }else{
+     bgUrl ='https:\/\/i.vimeocdn.com\/video\/1060748110_640.jpg';
+  }
+
   const [open, setOpen] = useState(false);
   const handleOpen = () => {
     setOpen(true);

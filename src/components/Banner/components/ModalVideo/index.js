@@ -25,6 +25,8 @@ function getYouTubeId(youtubeURL) {
 export default function ModalVideo(props){
   const classes = useStyles();
   const esc = false;
+  const url = props.videoURL.includes('youtube') ? `https://www.youtube.com/embed/${getYouTubeId(props.videoURL)}?autoplay=0` : props.videoURL;
+  console.log(url);
   return(
    <div>
     <Modal
@@ -39,17 +41,15 @@ export default function ModalVideo(props){
     BackdropProps={{
       timeout: 500,
     }}
-  >
-     
+  >  
     <Fade in={props.open}>
      <VideoFrameModal
         title="Video"
-        src={`https://www.youtube.com/embed/${getYouTubeId(props.videoURL)}?autoplay=0`}
+        src={url}
         frameBorder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen
     />
-
     </Fade>
    
   </Modal>

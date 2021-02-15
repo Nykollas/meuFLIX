@@ -9,9 +9,8 @@ function App() {
       <Banner
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"By Espaço Maker e AUTOBOTS"}
+        videoDescription={"By Nykollas"}
       />
-
       <Carousel ignoreFirstVideo category={dadosIniciais.categorias[0]} />
       <Carousel category={dadosIniciais.categorias[1]} />
       <Carousel category={dadosIniciais.categorias[2]} />

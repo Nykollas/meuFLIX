@@ -22,8 +22,9 @@
   right: 0;
   padding-left: 5%;
   padding-right: 5%;
+  box-shadow: 1px 1px 1px 1px gray;
 
-  background: var(--black);
+  background: var(--white);
   border-bottom: 2px solid var(--primary);
 }
 body {

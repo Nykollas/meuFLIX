@@ -1,194 +1,194 @@
 {
   "categorias": [
     {
-      "titulo": "Nossos Vídeos",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Salesforce",
+      "link": "https://player.vimeo.com/video/492334764",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "",
+        "url": "https://player.vimeo.com/video/492334764"
       },
       "videos": [
         {
-          "titulo": "O que é Arduino",
-          "url": "https://www.youtube.com/watch?v=-iOuF0qSlv4"
+          "titulo": "Salesforce Introdução",
+          "url": "https://player.vimeo.com/video/492334764"
         },
         {
-          "titulo": "Historia do Arduino",
-          "url": "https://youtu.be/9nucMfF15Ik"
+          "titulo": "Salesforce Introdução",
+          "url": "https://www.youtube.com/watch?v=di6iwHhrH6s&t=15s"
         },
         {
-          "titulo": "Conceitos de Eletrônica para Arduino",
-          "url": "https://youtu.be/1_4Psagxtps"
+          "titulo": "Salesforce Introdução",
+          "url": "https://youtu.be/_Sa7Uf3r2jI"
         },
         {
-          "titulo": "Conceitos básicos de Logica de programação",
-          "url": "https://youtu.be/i7CabAnxA5Q"
+          "titulo": "Salesforce Introdução",
+          "url": "https://www.youtube.com/watch?v=A7AEc-B2PKQ"
         },
         {
-          "titulo": "Primeira Aula Pratica",
-          "url": "https://youtu.be/KYPX_cxAFN0"
+          "titulo": "Salesforce Introdução",
+          "url": "https://www.youtube.com/watch?v=zDBSLcGp-80"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Salesforce Introdução",
+          "url": "https://www.youtube.com/watch?v=YYUiGs1dFno"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Salesforce Introdução",
+          "url": "https://www.youtube.com/watch?v=f1AMkMQw-p4"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Salesforce Introdução",
+          "url": "https://www.youtube.com/watch?v=ysIhQrC0E5c"
         }
       ]
     },
     {
-      "titulo": "Fundamentos de Computação",
+      "titulo": "Sales Cloud",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Sales Cloud",
+        "url": "https://youtu.be/U-QzP1ICitY"
       },
       "videos": [
         {
-          "titulo": "Fundamentos de Computação - Capitulo 1 (1º Parte)",
-          "url": "https://youtu.be/EQ3f7S70gk4"
+          "titulo": "Sales Cloud",
+          "url": "https://www.youtube.com/watch?v=4NsEWiXRHCE"
         },
         {
-          "titulo": "Fundamentos de Computação - Capitulo 1 (2º Parte)",
-          "url": "https://youtu.be/r-o-BN9t5tw"
+          "titulo": "Sales Cloud",
+          "url": "https://www.youtube.com/watch?v=3SEg9v67azc"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 2 (1º Parte)",
-          "url": "https://youtu.be/A5d32FgPH3Q"
+          "titulo": "Sales Cloud",
+          "url": "https://www.youtube.com/watch?v=6SEsoMe2LGw"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 2 (2º Parte)",
-          "url": "https://youtu.be/fvBPRiugQv4"
+          "titulo": "Sales Cloud",
+          "url": "https://youtu.be/SSPbXoVWIiM"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 4",
-          "url": "https://youtu.be/hHYqCmJkJKo"
+          "titulo": "Sales Cloud",
+          "url": "https://youtu.be/_MUPOCyRSeE"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 5 instalação do windows 10 parte 1",
-          "url": "https://youtu.be/5WhkAu77AEo"
+          "titulo": "Sales Cloud",
+          "url": "https://youtu.be/aOmLHVpK-K8"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 5 instalação do windows 10 parte 2",
-          "url": "https://youtu.be/cCboDBE5ZXc"
+          "titulo": "Sales Cloud",
+          "url": "https://youtu.be/A7AEc-B2PKQ"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 5 instalação do windows 10 parte 3",
-          "url": "https://youtu.be/Wss7jGz2Paw"
+          "titulo": "Sales Cloud",
+          "url": "https://youtu.be/PCuoHmuMaoc"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Marketing Cloud",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Marketing Cloud",
+        "url": "https://www.youtube.com/watch?v=80TdLcCcVrg"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Marketing Cloud",
+          "url": "https://www.youtube.com/watch?v=295brS23_4I&t=41s"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Marketing Cloud",
+          "url": "https://www.youtube.com/watch?v=7tp8QPZ-vFY"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Marketing Cloud",
+          "url": "https://www.youtube.com/watch?v=wJUUJxT_ZgA"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Marketing Cloud",
+          "url": "https://www.youtube.com/watch?v=MGNdWzJTuwM"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Knowledge Cloud",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=4w3B0WTQvXI"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=fgWbwcdkYjg"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=Pob63jM4EpI"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=DJ_izvGPly8"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Analytics Cloud",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Analytics Cloud",
+        "url": "https://www.youtube.com/watch?v=QkrSZq4Wqf8"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Analytics Cloud",
+          "url": "https://www.youtube.com/watch?v=V43Jjj5lJek"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Analytics Cloud",
+          "url": "https://www.youtube.com/watch?v=IXNExVkFEBE"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Analytics Cloud",
+          "url": "https://www.youtube.com/watch?v=cMiLYWc2mJo"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Analytics Cloud",
+          "url": "https://www.youtube.com/watch?v=qG9QTO0XEu8"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Analytics Cloud",
+          "url": "https://www.youtube.com/watch?v=1K74MTEy5hE"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Community Cloud",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Community Cloud",
+        "url": "https://www.youtube.com/watch?v=fF_C_GGJMC0"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Community Cloud",
+          "url": "https://www.youtube.com/watch?v=3a9r-loXoCE"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Community Cloud",
+          "url": "https://www.youtube.com/watch?v=cIzoxQ_bWaM"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Community Cloud",
+          "url": "https://www.youtube.com/watch?v=5z2hrvgDRPY"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Community Cloud",
+          "url": "https://www.youtube.com/watch?v=jC01yvCASmE"
         },
         {
-          "titulo": "Como aprender a programar?",
+          "titulo": "Community Cloud",
           "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
