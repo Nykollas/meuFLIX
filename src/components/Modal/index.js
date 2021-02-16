@@ -13,8 +13,7 @@ export default function ModalDialog(props) {
             open={props.open}
             onClose={props.handleClose}
             aria-labelledby="alert-dialog-title"
-            aria-describedby="alert-dialog-description"
-          >
+            aria-describedby="alert-dialog-description">
             <DialogTitle id="alert-dialog-title">
               {props.titulo}
             </DialogTitle>
